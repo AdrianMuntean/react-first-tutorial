@@ -1,0 +1,20 @@
+.Person {
+    width: 33%;
+    margin:auto;
+    border: 1px solid cadetblue;
+    text-align: center;
+    margin: auto;
+    float: none;
+}
+
+.red {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.cut {
+    text-decoration: line-through;
+}
